@@ -8,5 +8,8 @@ namespace task_2
 {
     internal interface IAbstractFactory
     {
+        IPhone CreatePhone();
+
+        INoteboock CreateNoteboock();
     }
 }

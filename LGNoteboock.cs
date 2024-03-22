@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace task_2
 {
-    internal class LGNoteboock
+    internal class LGNoteboock : INoteboock
     {
+        public string Name { get; }
+
+        public string Model { get; }
+
+        public LGNoteboock(string name, string model)
+        {
+            Name = name;
+            Model = model;
+        }
     }
 }

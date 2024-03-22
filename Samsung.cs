@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace task_2
 {
-    internal class Samsung
+    class Samsung : IAbstractFactory
     {
+        public INoteboock CreateNoteboock()
+        {
+            return new SamsungNotebook("Noteboock", "Samsung");
+        }
+
+        public IPhone CreatePhone()
+        {
+            return new SamsungPhone("Phone", "Samsung");
+        }
     }
 }

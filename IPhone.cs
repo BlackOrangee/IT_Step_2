@@ -8,5 +8,8 @@ namespace task_2
 {
     internal interface IPhone
     {
+        string Name { get; }
+
+        string Model { get; }
     }
 }

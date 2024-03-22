@@ -8,5 +8,8 @@ namespace task_2
 {
     internal interface INoteboock
     {
+        string Name { get; }
+
+        string Model { get; }
     }
 }

@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace task_2
 {
-    internal class SamsungNotebook
+    class SamsungNotebook : INoteboock
     {
+        public string Name { get; }
+
+        public string Model { get; }
+
+        public SamsungNotebook(string name, string model)
+        {
+            Name = name;
+            Model = model;
+        }
     }
 }
