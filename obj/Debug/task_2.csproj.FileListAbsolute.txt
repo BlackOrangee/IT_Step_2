@@ -1,0 +1,10 @@
+C:\Users\student\IT_Step_2\bin\Debug\task_2.exe.config
+C:\Users\student\IT_Step_2\bin\Debug\task_2.exe
+C:\Users\student\IT_Step_2\bin\Debug\task_2.pdb
+C:\Users\student\IT_Step_2\obj\Debug\task_2.csproj.AssemblyReference.cache
+C:\Users\student\IT_Step_2\obj\Debug\task_2.Form1.resources
+C:\Users\student\IT_Step_2\obj\Debug\task_2.Properties.Resources.resources
+C:\Users\student\IT_Step_2\obj\Debug\task_2.csproj.GenerateResource.cache
+C:\Users\student\IT_Step_2\obj\Debug\task_2.csproj.CoreCompileInputs.cache
+C:\Users\student\IT_Step_2\obj\Debug\task_2.exe
+C:\Users\student\IT_Step_2\obj\Debug\task_2.pdb
